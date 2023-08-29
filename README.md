@@ -1,5 +1,5 @@
 # simple-image-classifier
-A simple image classifier using Neural Network. This ML application is for detecting is the image are an Indonesian street food called "Batagor" or not
+A simple image classifier using Neural Network. This ML application is for detecting the image of an Indonesian street food called "Batagor"
 
 I'm using Google Colab to create this Machine Learning for image classifier. Below is the example image of Batagor
 
